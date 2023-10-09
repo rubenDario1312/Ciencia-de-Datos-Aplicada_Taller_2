@@ -9,5 +9,5 @@ La presentación publicada correpsonde a los Insights finales producto del model
 Taller 2
 Ciencia de datos
 Ruben Bohorquez
-Universidad de los Anges
+Universidad de los Andes
 
